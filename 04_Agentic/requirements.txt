@@ -1,0 +1,5 @@
+scikit-learn
+PyPDF2
+# or alternatively: pdfplumber
+matplotlib
+# jupyter notebook (if not already installed)
